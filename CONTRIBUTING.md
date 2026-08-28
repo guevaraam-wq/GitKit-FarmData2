@@ -4,11 +4,11 @@ FarmData2 welcomes participation and contributions. There are many ways to contr
 
 ## Code of Conduct ##
 
-To promote an open, welcoming, inclusive and harassment-free experience, all engagement with FarmData2 is governed by the community standards expressed in the [Contributor Covenent](CODE_OF_CONDUCT.md).
+To promote an open, welcoming, inclusive and harassment-free experience, all engagement with FarmData2 is governed by the community standards expressed in the [Contributor Covenant](CODE_OF_CONDUCT.md).
 
 ## Licensing ##
 
-Content in the FarmData2 project is released under several different licenses as described in the [LICENSE file](LICENSE.md). In addition, that file describes the rights and responsibilities of contributors with regard to the their contributed content. The licensing structure of FarmData2 is designed to ensure that FarmData2 remains free and open source while protecting both the project and it community of contributors. Please review it carefully before contributing content to FarmData2.
+Content in the FarmData2 project is released under several different licenses as described in the [LICENSE file](LICENSE.md). In addition, that file describes the rights and responsibilities of contributors with regard to the their contributed content. The licensing structure of FarmData2 is designed to ensure that FarmData2 remains free and open source while protecting both the project and its community of contributors. Please review it carefully before contributing content to FarmData2.
 
 ## Connecting ##
 
@@ -60,7 +60,7 @@ Update to any of the FarmData2 documentation are welcome.  If you find typos, un
 
 #### Bug Fix / Feature Implementation ####
 
-Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe issues be fixed or new features to be added to FarmData2. The tag _good first issue_ appears on the most approachable tickets.  If you find an issue to work on use the [workflow](#workflow) described below to create a pull request for your suggested bug fix or feature implementation. Information about the languages and technologies that are used in FarmdData2 and pointers to resources for learning more about them can be found in the [Technology On-boarding](#technology-on-boarding) section below.
+Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe issues be fixed or new features to be added to FarmData2. The tag _good first issue_ appears on the most approachable tickets.  If you find an issue to work on use the [workflow](#workflow) described below to create a pull request for your suggested bug fix or feature implementation. Information about the languages and technologies that are used in FarmData2 and pointers to resources for learning more about them can be found in the [Technology On-boarding](#technology-on-boarding) section below.
 
 #### Other Thoughts ####
 
